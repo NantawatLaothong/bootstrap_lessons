@@ -1,0 +1,1 @@
+Sample page to learn bootstrap
